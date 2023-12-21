@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,1,func37(str.to.int(Param0),Param0," "))}
+0.0000530000
+0.0000000000
+10.6689410000

@@ -1,0 +1,4 @@
+1 {f:func40(str.substr(Param0,4,str.len(Param0)),"(",func40(" ",func1(Param0,"-",0),")"))}
+0.0000390000
+0.0000000000
+0.5982280000

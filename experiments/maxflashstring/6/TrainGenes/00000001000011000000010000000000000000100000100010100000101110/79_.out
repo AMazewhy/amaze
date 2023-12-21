@@ -1,0 +1,4 @@
+2 {f:str.++(str.replace(func7(str.substr(Param0,0,1),Param0,str.indexof(Param0," ",0),2)," ","."),".")}
+0.0001490000
+0.0000000000
+0.5536910000

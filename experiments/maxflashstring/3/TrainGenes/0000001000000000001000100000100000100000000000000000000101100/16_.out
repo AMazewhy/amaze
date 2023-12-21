@@ -1,0 +1,4 @@
+2 {f:func22(Param0,1,str.indexof(Param0,"/",str.to.int(str.++(int.to.str(1),int.to.str(1)))),Param0)}
+0.0000380000
+0.0000000000
+3.1061890000

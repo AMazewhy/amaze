@@ -1,0 +1,4 @@
+2 {f:func42(str.substr(Param0,func26(func26(func26(func35(1,Param0)))),str.len(Param0)),str.substr(Param0,func28(Param0,"<"),-(1,func26(-1))),str.substr(Param0,func26(func26(func26(func26(func26(func26(func26(func35(1,Param0)))))))),-(1,func26(-1))))}
+0.0000780000
+0.0000000000
+29.4610980000

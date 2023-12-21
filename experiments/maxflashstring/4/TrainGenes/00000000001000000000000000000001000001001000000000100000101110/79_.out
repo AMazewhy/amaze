@@ -1,0 +1,4 @@
+1 {f:func42(str.substr(Param0,0,1),str.++(".",str.substr(Param0,func28(Param0," "),1)),".")}
+0.0002090000
+0.0000000000
+0.5453130000

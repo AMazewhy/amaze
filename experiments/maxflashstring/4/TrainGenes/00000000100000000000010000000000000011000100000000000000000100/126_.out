@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,1,func32(str.to.int(Param0),Param0," "))}
+0.0003090000
+0.0000000000
+2.6928180000

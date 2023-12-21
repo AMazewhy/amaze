@@ -1,0 +1,4 @@
+2 {f:-(1,str.indexof(Param1,str.substr(Param1,-(func34(Param0,Param1),-1),1),str.to.int(int.to.str(func34(Param0,Param1)))))}
+0.0000340000
+0.0000000000
+53.0778020000

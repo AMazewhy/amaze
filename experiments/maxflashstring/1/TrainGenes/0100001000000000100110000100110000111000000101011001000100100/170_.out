@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,func27(Param0,"_",-(Param1,2)),str.to.int(func6(Param0,Param1,-(0,Param1),"_")))}
+0.0000430000
+0.0000000000
+38.2243770000

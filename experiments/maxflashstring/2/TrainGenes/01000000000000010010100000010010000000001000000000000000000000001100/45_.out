@@ -1,0 +1,4 @@
+3 {f:-(str.len(Param0),func32(func32(-(str.indexof(Param0,func18(Param0,+(-1,str.len(Param0)),"/n",1),str.indexof(Param0,"/n",1)),str.indexof(Param0,"/n",1)))))}
+0.0000360000
+0.0000000000
+12.2801510000

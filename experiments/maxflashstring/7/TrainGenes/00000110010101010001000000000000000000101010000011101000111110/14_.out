@@ -1,0 +1,4 @@
+2 {f:func6(str.substr(Param0,func40(Param0,"C0"),str.len(Param1)),func5(Param1,-(-1,func40(Param0,"C0")),-(1,-1),str.substr(Param0,str.len(Param1),-(func40(Param0,"C0"),-1)),str.substr(Param0,-(str.len(Param1),-1),1)),func19(Param1,1,str.len(Param1),Param0,"C0",0))}
+0.0000520000
+0.0000000000
+3.4202000000

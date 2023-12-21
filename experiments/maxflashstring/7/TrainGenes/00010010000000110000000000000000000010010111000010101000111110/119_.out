@@ -1,0 +1,4 @@
+1 {f:func6("(",func6(str.substr(Param0,0,3),")"," "),str.substr(Param0,4,str.len(Param0)))}
+0.0002400000
+0.0000000000
+0.8052590000

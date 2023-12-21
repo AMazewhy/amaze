@@ -1,0 +1,4 @@
+3 {f:func37(+(func37(-(str.indexof(Param0,"/n",1),str.indexof(Param0,str.substr(Param0,func37(str.len(Param0)),str.indexof(Param0,"/n",1)),str.indexof(Param0,"/n",1)))),str.len(Param0)))}
+0.0000460000
+0.0000000000
+46.9381550000

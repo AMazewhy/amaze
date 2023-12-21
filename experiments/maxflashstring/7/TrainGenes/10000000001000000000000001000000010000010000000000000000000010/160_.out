@@ -1,0 +1,4 @@
+2 {f:func33(Param0,str.to.int(str.++(int.to.str(1),int.to.str(-(1,func37(func37(-1)))))),Param0)}
+0.0000430000
+0.0000000000
+1.1174780000

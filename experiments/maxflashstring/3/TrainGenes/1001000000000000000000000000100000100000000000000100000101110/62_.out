@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,-(str.indexof(Param0,"_",1),4),str.to.int(str.++(int.to.str(1),int.to.str(4))))}
+0.0000340000
+0.0000000000
+3.9015950000

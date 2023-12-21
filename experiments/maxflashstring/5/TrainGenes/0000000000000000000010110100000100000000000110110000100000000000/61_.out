@@ -1,0 +1,4 @@
+2 {f:str.to.int(str.substr(Param0,func38(func34(Param0,"<")),func38(1)))}
+0.0000320000
+0.0000000000
+0.5012470000

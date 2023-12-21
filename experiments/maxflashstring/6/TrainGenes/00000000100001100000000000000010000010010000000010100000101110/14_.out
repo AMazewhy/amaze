@@ -1,0 +1,4 @@
+3 {f:func8(func13("C0",Param0,str.substr(Param0,1,1),0),str.substr(Param0,-(0,str.indexof(Param0,func30(Param0,0,str.len(Param0),str.len(Param1)),1)),str.len(Param0)),str.substr(Param1,-(-1,str.indexof(Param0,"C0",0)),func34(1)),func30(Param1,func34(1),0,str.indexof(Param0,"C0",0)))}
+0.0000990000
+0.0000000000
+58.0325080000

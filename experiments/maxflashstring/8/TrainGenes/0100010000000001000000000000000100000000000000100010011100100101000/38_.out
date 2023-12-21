@@ -1,0 +1,4 @@
+4 {f:str.suffixof(func40(str.substr("orange",+(func48(func48(1)),str.len(Param0)),str.len(Param0)),str.substr("green",func48(func32(Param0,str.substr("yellow",0,1))),str.len(Param0)),str.substr("orange",func32(Param0,str.substr("yellow",0,1)),1)),"orange")}
+0.0001020000
+0.0000000000
+32.1251680000

@@ -1,0 +1,4 @@
+2 {f:str.++(str.substr(Param0,0,-(str.indexof(Param0,int.to.str(1),func28(Param0,Param1)),func28(Param0,Param1))),str.substr(Param0,func26(func26(func28(Param0,int.to.str(1)))),func26(func26(func26(str.indexof(Param0,int.to.str(1),1))))))}
+0.0000520000
+0.0000000000
+12.0938120000

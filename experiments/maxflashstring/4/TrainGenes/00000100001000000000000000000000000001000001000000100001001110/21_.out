@@ -1,0 +1,4 @@
+1 {f:str.++(str.substr(Param0,0,func34(Param0,"/")),func10(Param0,1,str.indexof(Param0,"/",func28(Param0,"/"))))}
+0.0000290000
+0.0000000000
+18.3914870000

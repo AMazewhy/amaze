@@ -1,0 +1,4 @@
+3 {f:-(func32(Param0,str.substr(Param0,+(str.indexof(Param0,"/n",func33(Param0,str.substr(Param0,0,1))),-(func32(Param0,"/n"),+(-1,-1))),1)),-1)}
+0.0000450000
+0.0000000000
+15.5303710000

@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,0,str.indexof(Param0," ",func30(1,Param0,"in")))}
+0.0000340000
+0.0000000000
+9.7727670000

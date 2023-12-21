@@ -1,0 +1,4 @@
+1 {f:str.to.int(str.substr(Param0,0,str.indexof(Param0," ",1)))}
+0.0000170000
+0.0000000000
+0.5080460000

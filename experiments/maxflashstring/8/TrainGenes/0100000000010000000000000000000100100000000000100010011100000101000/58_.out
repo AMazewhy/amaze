@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,-(func32(Param0,"="),func48(1)),str.len(Param0))}
+0.0000440000
+0.0000000000
+0.4953990000

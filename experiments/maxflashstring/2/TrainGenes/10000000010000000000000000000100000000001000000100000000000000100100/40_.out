@@ -1,0 +1,4 @@
+3 {f:str.++(func0(Param0,func32(func32(1)),"<",0),str.++(func9(Param0,func32(func32(1)),-1,func39(Param0,int.to.str(func32(func32(func32(func32(1))))))),str.substr(Param0,-(str.len(Param0),func32(func32(func32(1)))),str.len(Param0))))}
+0.0000820000
+0.0000000000
+6.4998760000

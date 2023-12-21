@@ -1,0 +1,4 @@
+2 {f:func10(Param0,1,str.to.int(str.++(int.to.str(1),int.to.str(func29(Param0,"/")))))}
+0.0000500000
+0.0000000000
+9.1042220000

@@ -1,0 +1,4 @@
+2 {f:func21(Param0,func32(str.indexof(Param0,"_",-(Param1,2))),-(str.to.int(str.++(int.to.str(Param1),int.to.str(0))),2),2)}
+0.0000400000
+0.0000000000
+5.3401790000

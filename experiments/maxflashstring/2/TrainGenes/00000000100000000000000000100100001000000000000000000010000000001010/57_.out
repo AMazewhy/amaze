@@ -1,0 +1,4 @@
+3 {f:func26(Param0,str.len(Param0),Param0,".",+(-(-1,str.indexof(Param0,".",1)),str.len(Param0)))}
+0.0000510000
+0.0000000000
+41.2734920000

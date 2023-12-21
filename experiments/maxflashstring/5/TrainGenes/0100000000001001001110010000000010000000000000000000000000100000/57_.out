@@ -1,0 +1,4 @@
+3 {f:func12(Param0,str.len(Param0),-1,".",+(-(-1,str.indexof(Param0,".",1)),str.len(Param0)))}
+0.0000540000
+0.0000000000
+114.6040190000

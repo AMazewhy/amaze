@@ -1,0 +1,4 @@
+3 {f:func34(str.substr(Param0,0,func32(Param0,Param1)),func5(Param0,-(0,str.to.int(Param1)),Param1),func9(Param0,str.len(Param0),-(1,-1),Param1,0))}
+0.0000920000
+0.0000000000
+59.8165310000

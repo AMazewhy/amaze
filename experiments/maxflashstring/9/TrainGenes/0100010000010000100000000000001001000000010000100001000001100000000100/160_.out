@@ -1,0 +1,4 @@
+2 {f:func5(Param0,str.len(Param0),1,"/",+(1,str.indexof(Param0,"/",func32(1,Param0,"/"))))}
+0.0000380000
+0.0000000000
+3.6304810000

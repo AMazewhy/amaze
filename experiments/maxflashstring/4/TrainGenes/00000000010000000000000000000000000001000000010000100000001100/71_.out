@@ -1,0 +1,4 @@
+2 {f:func9(Param0,str.indexof(Param0,",",Param1),1,str.indexof(Param0,",",-(1,Param1)))}
+0.0000310000
+0.0000000000
+0.4017000000

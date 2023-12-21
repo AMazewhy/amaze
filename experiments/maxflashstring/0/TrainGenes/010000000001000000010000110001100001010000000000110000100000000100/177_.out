@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,0,func39(func38(str.indexof(Param0,"9",1))))}
+0.0000250000
+0.0000000000
+2.0505290000

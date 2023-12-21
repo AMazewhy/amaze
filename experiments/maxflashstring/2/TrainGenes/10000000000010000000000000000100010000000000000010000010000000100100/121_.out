@@ -1,0 +1,4 @@
+1 {f:func46(str.++(str.++(str.substr(Param0,0,3),func46(" ",")")),str.substr(Param0,4,str.len(Param0))),"(")}
+0.0000330000
+0.0000000000
+0.4642220000

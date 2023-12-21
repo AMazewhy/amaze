@@ -1,0 +1,4 @@
+3 {f:str.++(" ",str.substr(Param0,+(1,str.indexof(Param0," ",func48(func32(Param0,func5(Param0,1," "))))),func48(str.len(Param0))))}
+0.0000670000
+0.0000000000
+59.5918690000

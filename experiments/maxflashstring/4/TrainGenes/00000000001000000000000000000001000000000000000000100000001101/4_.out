@@ -1,0 +1,4 @@
+2 {f:str.suffixof("9999999",func42(str.substr("9999999",0,+(str.indexof(Param0,"9999999",1),1)),str.substr(Param0,-(str.indexof(Param0,"9999999",1),-1),1),func10(Param0,-1,-(1,str.indexof(Param0,"9999999",1)))))}
+0.0000320000
+0.0000000000
+3.1712270000

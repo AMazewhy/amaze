@@ -1,0 +1,4 @@
+1 {f:func34("(",str.substr(Param0,0,3),func34(")"," ",str.substr(Param0,4,str.len(Param0))))}
+0.0000300000
+0.0000000000
+0.4510420000

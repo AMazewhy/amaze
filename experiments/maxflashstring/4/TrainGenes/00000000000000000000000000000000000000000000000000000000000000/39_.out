@@ -1,0 +1,4 @@
+4 {f:str.++(str.substr(Param0,-(-(str.to.int(str.substr(Param0,-(str.indexof(Param0,str.substr(Param0,+(1,1),1),1),-1),1)),str.indexof(Param0,str.substr(Param0,-(str.indexof(Param0,str.substr(Param0,+(1,1),1),1),-1),1),1)),-1),-(str.indexof(Param0,str.substr(Param0,+(1,1),1),1),-1)),str.substr(Param0,-(str.to.int(str.substr(Param0,-(str.indexof(Param0,str.substr(Param0,+(1,1),1),1),-1),1)),-1),+(+(-1,-1),str.len(Param0))))}
+0.0000850000
+0.0000000000
+33.6750820000

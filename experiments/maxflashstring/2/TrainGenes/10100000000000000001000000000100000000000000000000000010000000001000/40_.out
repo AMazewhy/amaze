@@ -1,0 +1,4 @@
+3 {f:str.++(func0(Param0,-(+(1,1),-1),"<",0),str.++(str.substr(Param0,-(1,-(-1,-(str.len(Param0),str.to.int(str.++(int.to.str(1),int.to.str(0)))))),-(+(1,1),-1)),str.substr(Param0,-(+(+(-1,-1),-1),-(1,str.len(Param0))),str.len(Param0))))}
+0.0000830000
+0.0000000000
+21.3932190000

@@ -1,0 +1,4 @@
+3 {f:str.substr(Param0,func40(Param0,func15(Param0,str.len(Param0),func3("",Param0),1)),-(0,-(func40(Param0,"that"),str.len(Param0))))}
+0.0001440000
+0.0000000000
+49.2405250000

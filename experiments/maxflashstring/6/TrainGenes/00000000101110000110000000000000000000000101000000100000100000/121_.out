@@ -1,0 +1,4 @@
+1 {f:str.++("(",func8(func10(Param0,3),")"," ",str.substr(Param0,4,str.len(Param0))))}
+0.0000310000
+0.0000000000
+1.2917840000

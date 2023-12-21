@@ -1,0 +1,4 @@
+2 {f:func45(func42("",Param0),func23(Param0,-(0,str.indexof(Param0," ",1))),str.substr(Param0,1,+(-1,str.indexof(Param0,"|",1))))}
+0.0000540000
+0.0000000000
+13.8475910000

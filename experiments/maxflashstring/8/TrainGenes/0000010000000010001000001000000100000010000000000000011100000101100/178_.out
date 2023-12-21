@@ -1,0 +1,4 @@
+1 {f:func5(Param0,str.len(Param0),func5(Param0,str.len(Param0),str.++("="," ")))}
+0.0000230000
+0.0000000000
+7.2362230000

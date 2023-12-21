@@ -1,0 +1,4 @@
+2 {f:str.substr(Param0,func32(Param0,"_"),+(2,str.indexof(Param0," ",func48(+(1,func48(func32(Param0,"_")))))))}
+0.0000430000
+0.0000000000
+6.9765700000

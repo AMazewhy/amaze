@@ -1,0 +1,4 @@
+2 {f:func14(Param0,str.len(Param0)," ",str.indexof(Param0,str.++("="," "),1))}
+0.0000460000
+0.0000000000
+33.4254680000

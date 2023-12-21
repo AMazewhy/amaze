@@ -1,0 +1,3 @@
+(define-fun f ((x (BitVec 64))) (BitVec 64)
+     (if0 (func32 x) (if0 (func31 x #x0000000000000001) (bvadd x #x0000000000000001) (func62 x #x0000000000000001)) (if0 (func32 (shr16 x)) (if0 (func32 (shr4 (func58 x))) (if0 (func32 (shr4 x)) (if0 (func32 (shr16 (func58 x))) (func49 x) (if0 (func32 (shr4 (shr4 x))) (bvand (shl1 x) x) (if0 (func32 (shr4 (shr16 x))) (bvand (shl1 x) x) (func49 x)))) (func49 x)) (bvand (shl1 x) x)) (func49 x))))
+2.3077533338218927

@@ -1,0 +1,4 @@
+5 {f:ite(str.suffixof("Inc",Param0),func1(Param0,-1,func61(Param0)),ite(str.suffixof("Company",Param0),func3(Param0,func50(" ","Company")),ite(str.suffixof("Corporation",Param0),func3(Param0," "),ite(str.suffixof("Enterprises",Param0),func3(Param0," "),Param0))))}
+0.0000900000
+0.0000000000
+0.8763330000

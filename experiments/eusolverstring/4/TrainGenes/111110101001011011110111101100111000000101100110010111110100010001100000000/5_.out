@@ -1,0 +1,4 @@
+5 {f:ite(=(Param1,1),func1(Param0,Param1),ite(=(Param1,2),func13(Param0,1,0),ite(=(Param1,3),func13(Param0,1,1),ite(=(Param1,4),func14(Param0,1),func1(func24(Param0),1)))))}
+0.0000650000
+0.0000000000
+0.6564550000

@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(func24(Param0),"."),func24(func39(Param0,1)),ite(str.suffixof(func39(func24(Param0),1),Param0),func29(Param0,str.len(Param0),str.len(Param0)),func31(Param0,func57(1,Param0),1)))}
+0.0000490000
+0.0000000000
+4.4798590000

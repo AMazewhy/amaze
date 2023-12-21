@@ -1,0 +1,4 @@
+2 {f:ite(str.suffixof("USA",Param1),Param1,func35(Param1,",",str.++(" ","USA")))}
+0.0000570000
+0.0000000000
+3.1898500000

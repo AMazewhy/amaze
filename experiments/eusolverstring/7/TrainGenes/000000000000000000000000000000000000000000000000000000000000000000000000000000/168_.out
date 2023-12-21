@@ -1,0 +1,4 @@
+4 {f:ite(=(Param1,3),str.substr(Param0,2,Param1),ite(=(Param1,2),str.at(Param0,1),str.at(Param0,3)))}
+0.0000280000
+0.0000000000
+0.3335650000

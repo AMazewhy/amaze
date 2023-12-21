@@ -1,0 +1,4 @@
+3 {f:ite(str.prefixof(func4(Param0,"microsoft"),""),"mac",ite(str.prefixof(func4(Param0,"windows"),""),"microsoft","windows"))}
+0.0000260000
+0.0000000000
+0.3518160000

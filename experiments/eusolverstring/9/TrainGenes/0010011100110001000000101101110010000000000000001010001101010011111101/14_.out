@@ -1,0 +1,4 @@
+3 {f:ite(str.suffixof(str.at(Param0,1),"C0"),Param0,Param1)}
+0.0000220000
+0.0000000000
+0.5595530000

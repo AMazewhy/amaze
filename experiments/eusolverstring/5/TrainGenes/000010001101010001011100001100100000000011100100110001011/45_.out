@@ -1,0 +1,4 @@
+3 {f:ite(str.prefixof(Param0,func27(Param0,0)),1,ite(str.prefixof(func17(Param0,1,1),Param0),+(1,1),str.indexof(Param0,"/n",1)))}
+0.0000280000
+0.0000000000
+0.5269140000

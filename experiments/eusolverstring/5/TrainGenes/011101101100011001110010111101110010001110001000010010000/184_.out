@@ -1,0 +1,4 @@
+3 {f:ite(=(7,func39(Param0)),func14(Param0,1,2),ite(=(9,func39(Param0)),str.++(" ",func2(Param0,9)),func14(Param0,1,4)))}
+0.0000220000
+0.0000000000
+0.5614470000

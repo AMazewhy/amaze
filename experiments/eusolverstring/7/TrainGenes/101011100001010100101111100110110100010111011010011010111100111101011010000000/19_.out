@@ -1,0 +1,4 @@
+4 {f:ite(str.prefixof("that",Param0),ite(str.prefixof(Param0,"that"),Param0,func13(Param0,func61(Param0),1)),func4(func50(Param0,"that"),"that"))}
+0.0000800000
+0.0000000000
+0.5595950000

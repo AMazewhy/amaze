@@ -1,0 +1,4 @@
+4 {f:ite(str.contains(Param0,Param1),ite(str.contains(Param0,func34(Param1,Param0)),func40(-1,Param1),ite(str.contains(Param0,func34(Param1,Param1)),func40(-1,Param1),1)),0)}
+0.0000550000
+0.0000000000
+0.4593470000

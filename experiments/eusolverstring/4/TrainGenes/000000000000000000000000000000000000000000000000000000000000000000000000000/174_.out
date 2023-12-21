@@ -1,0 +1,4 @@
+2 {f:ite(str.suffixof(str.at(Param0,1),Param0),str.substr(Param0,0,str.to.int(str.++(int.to.str(1),int.to.str(1)))),str.substr(Param0,0,str.indexof(Param0," ",1)))}
+0.0000120000
+0.0000000000
+14.6663530000

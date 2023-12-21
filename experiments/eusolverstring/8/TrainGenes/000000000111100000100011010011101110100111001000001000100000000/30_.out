@@ -1,0 +1,4 @@
+2 {f:ite(=(3,func45(5,Param0)),str.substr(Param0,0,5),str.substr(Param0,0,func31(1)))}
+0.0000270000
+0.0000000000
+0.5383680000

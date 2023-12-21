@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(func1(Param0," ","","")," "),ite(str.contains(func14(Param0,1,1),func27(Param0,1)),-(1,func40(func40(1))),-(1,func40(-1))),+(1,1))}
+0.0000560000
+0.0000000000
+6.9378170000

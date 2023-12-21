@@ -1,0 +1,4 @@
+15 {f:ite(=(0,func35(Param0," ",func38(1))),ite(str.suffixof(" ",func32(Param0,1)),func11(Param0,func53(Param0),1),ite(=(1,func53(func3(Param0," "))),func31(Param0,func38(0)),func31(Param0,func38(1)))),ite(str.prefixof(" ",func10(Param0,1)),func10(func31(Param0,1),func53(Param0)),ite(str.suffixof(" ",func32(Param0,func38(0))),func10(Param0,func53(Param0)),ite(=(func38(1),func39(Param0," ")),func16(Param0,1,func38(1)),ite(=(func38(1),func53(func3(Param0," "))),func31(Param0,func38(func38(0))),func31(Param0,func38(func38(1))))))))}
+0.0027730000
+0.0000000000
+5.5815430000

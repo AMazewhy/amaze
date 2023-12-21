@@ -1,0 +1,4 @@
+6 {f:ite(str.contains(Param0,"0"),ite(str.prefixof("0",func15(Param0)),str.len(func15(Param0)),ite(str.prefixof("0",Param0),func32(str.++(func15(Param0),Param0),"0"),ite(str.prefixof(func15(Param0),Param0),func32(Param0,"0"),func32(Param0,func15(Param0))))),+(1,str.to.int(func2(Param0,1))))}
+0.0001020000
+0.0000000000
+0.8814590000

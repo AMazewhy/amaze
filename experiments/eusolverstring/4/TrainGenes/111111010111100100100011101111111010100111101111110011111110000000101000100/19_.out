@@ -1,0 +1,4 @@
+4 {f:ite(str.suffixof("that",Param0),func1(Param0,func49(-1)),ite(str.contains(Param0,"that"),func39(Param0,func49(-1)),Param0))}
+0.0000460000
+0.0000000000
+0.3921460000

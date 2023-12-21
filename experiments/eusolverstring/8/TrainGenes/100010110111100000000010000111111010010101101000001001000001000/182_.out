@@ -1,0 +1,4 @@
+3 {f:ite(str.prefixof("<",func7(Param0,1)),func9(Param0,func31(0),-(-1,1)),ite(str.prefixof("b",func7(Param0,1)),func9(Param0,func31(-1),-(-1,1)),func9(Param0,func31(1),-(-1,1))))}
+0.0000380000
+0.0000000000
+24.2649550000

@@ -1,0 +1,4 @@
+2 {f:ite(=(1,str.len(int.to.str(str.len(Param0)))),str.replace(Param0,func22(Param0,1),""),func33(func23(Param0,func41(0)),Param0,0))}
+0.0000250000
+0.0000000000
+3.2320190000

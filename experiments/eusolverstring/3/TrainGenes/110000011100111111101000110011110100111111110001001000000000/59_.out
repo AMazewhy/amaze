@@ -1,0 +1,4 @@
+4 {f:ite(=(func34(1),func27(Param0,"/")),func9(Param0,str.len(Param0)),ite(str.suffixof(func9(Param0,1),Param0),func15(Param0,str.len(Param0),1),func18(Param0,1,func34(1))))}
+0.0000650000
+0.0000000000
+1.1006490000

@@ -1,0 +1,4 @@
+3 {f:ite(str.suffixof(str.at("Dr.",1),Param0),str.++("Dr.",func1(str.++(" ",Param0),func49(1))),ite(str.contains(Param0,str.at("Dr.",1)),str.++("Dr.",func1(str.++(" ",Param0),func49(2))),func1(func39("Dr."," ",Param0,Param0),func49(2))))}
+0.0000560000
+0.0000000000
+82.8508300000

@@ -1,0 +1,4 @@
+2 {f:ite(str.suffixof(Param1,Param0),func2(Param0,"",func49(1)),str.replace(Param0,Param1,""))}
+0.0000200000
+0.0000000000
+0.5669460000

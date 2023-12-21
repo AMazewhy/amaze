@@ -1,0 +1,4 @@
+3 {f:ite(str.suffixof("US",Param0),ite(str.suffixof(" ",func12(Param0)),func3(Param0," "),func0(Param0,func31(func31(func31(-1))))),func0(Param0,func31(func31(func31(0)))))}
+0.0000500000
+0.0000000000
+0.7301270000

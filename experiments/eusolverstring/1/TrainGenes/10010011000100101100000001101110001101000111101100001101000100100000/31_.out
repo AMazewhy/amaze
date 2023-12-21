@@ -1,0 +1,4 @@
+4 {f:ite(=(1,str.to.int(str.at(Param0,5))),func6(Param0,5," "),ite(=(2,str.to.int(str.at(Param0,5))),func6(Param0,5," "),ite(=(5,str.to.int(str.at(Param0,5))),func6(Param0,5," "),func6(Param0,+(1,5)," "))))}
+0.0000490000
+0.0000000000
+0.5348770000

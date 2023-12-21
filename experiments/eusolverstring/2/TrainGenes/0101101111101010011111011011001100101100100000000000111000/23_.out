@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(Param0,"ssp."),func1(Param0,func27(Param0,str.++(" ","ssp."))),func1(Param0,func27(Param0," ")))}
+0.0000580000
+0.0000000000
+3.0803470000

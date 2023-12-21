@@ -1,0 +1,4 @@
+3 {f:ite(str.prefixof(func10(Param0,1),"DRS"),str.replace(Param0,"DRS","Direct Response"),ite(str.prefixof(str.at(Param0,1),Param0),str.replace(Param0,"LDS","Leads"),str.replace(Param0,"BRD","Branding")))}
+0.0000210000
+0.0000000000
+0.5081860000

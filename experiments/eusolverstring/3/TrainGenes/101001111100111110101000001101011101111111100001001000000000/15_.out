@@ -1,0 +1,4 @@
+3 {f:ite(str.suffixof("/",Param0),"microsoft",ite(str.suffixof("windows",Param0),"windows","mac"))}
+0.0000170000
+0.0000000000
+0.5245730000

@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(Param0,"/n"),ite(str.suffixof(" ",func2(Param0,func16(Param0,1,Param0))),func27(Param0,func33(str.++("/n",Param0),"/n")),func27(Param0,func33(Param0,func2(Param0,func12(Param0))))),Param0)}
+0.0000600000
+0.0000000000
+75.6623420000

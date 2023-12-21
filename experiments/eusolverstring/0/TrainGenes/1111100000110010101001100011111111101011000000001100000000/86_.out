@@ -1,0 +1,4 @@
+18 {f:ite(str.contains(func2(Param0,func39(1))," "),ite(=(func39(0),func26(Param0," ")),str.substr(Param0,func39(1),str.len(Param0)),ite(str.suffixof(" ",func2(Param0,func39(0))),str.substr(Param0,func39(0),str.len(Param0)),str.substr(Param0,func39(str.to.int(Param0)),str.len(Param0)))),ite(str.prefixof(" ",func11(Param0,1,func39(1))),func16(Param0,str.len(Param0),func39(func39(1))),ite(=(func39(1),func26(Param0," ")),func10(Param0,str.len(Param0),1,func39(1)),ite(str.suffixof(" ",func2(Param0,func39(func39(0)))),func21(Param0,func39(func39(0))," "),ite(=(1,str.len(int.to.str(func26(Param0," ")))),func21(Param0,func39(func39(str.to.int(Param0)))," "),func21(Param0,func39(func39(1))," "))))))}
+0.0034290000
+0.0000000000
+40.8494570000

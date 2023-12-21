@@ -1,0 +1,4 @@
+4 {f:ite(str.contains(Param0,"US"),func2(Param0,func53(Param0)),ite(str.contains(Param0,"CAN"),func2(Param0,func53(func34(Param0,1))),Param0))}
+0.0000570000
+0.0000000000
+1.6218520000

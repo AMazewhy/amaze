@@ -1,0 +1,4 @@
+3 {f:ite(str.suffixof(Param1,Param0),3,ite(str.suffixof(func12(Param1),Param0),1,2))}
+0.0000260000
+0.0000000000
+0.4794150000

@@ -1,0 +1,4 @@
+3 {f:ite(=(-1,str.indexof(Param0,"/n",1)),Param0,ite(=(-1,str.indexof(Param0,func27(Param0,0),1)),func8(Param0,func39(Param0),func27("/n",1),1),func28(Param0,str.indexof(Param0,func27(Param0,0),1))))}
+0.0000400000
+0.0000000000
+31.5780620000

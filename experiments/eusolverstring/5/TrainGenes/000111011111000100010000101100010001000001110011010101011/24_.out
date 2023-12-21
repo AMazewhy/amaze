@@ -1,0 +1,4 @@
+4 {f:ite(str.prefixof(" ",func15(Param0)),ite(str.prefixof(func4(Param0,""),"oranges"),func35(func7(Param0)," ","apple"),func35(func7(Param0)," ","bananas")),ite(str.prefixof(",",func15(Param0)),func35(func4(Param0,",")," ","oranges"),func35(func4(Param0,",")," ","strawberries")))}
+0.0000770000
+0.0000000000
+19.3766220000

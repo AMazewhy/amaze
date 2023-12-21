@@ -1,0 +1,4 @@
+2 {f:ite(str.prefixof(Param0,"that"),Param0,str.replace(Param0,"that",""))}
+0.0000230000
+0.0000000000
+0.4811960000

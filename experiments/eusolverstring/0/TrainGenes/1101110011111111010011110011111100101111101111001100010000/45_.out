@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(Param0,"/n"),ite(=(func39(0),func41(Param0)),str.len("/n"),func26(Param0,"/n")),1)}
+0.0000120000
+0.0000000000
+0.3661390000

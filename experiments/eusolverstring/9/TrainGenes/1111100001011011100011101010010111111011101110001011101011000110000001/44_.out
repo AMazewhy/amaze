@@ -1,0 +1,4 @@
+6 {f:ite(str.suffixof("0",func32(Param0,0)),ite(str.prefixof("0",Param0),func38(func53(" ")),ite(str.prefixof("0",func11(Param0,1,1)),func38(func53(" ")),func38(func53("")))),ite(str.prefixof("0",Param0),func38(func53("")),ite(=(-1,func40(Param0,"0")),func38(1),func38(-1))))}
+0.0000720000
+0.0000000000
+1.1654040000

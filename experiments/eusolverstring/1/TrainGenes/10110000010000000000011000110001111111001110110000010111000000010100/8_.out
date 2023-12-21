@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(Param0," "),ite(str.contains(Param0,"BRD"),func0(Param0,Param0,Param0,"BRD","Branding"),func0(Param0,Param0,Param0,"LDS","Leads")),func0(Param0,Param0,Param0,"DRS","Direct Response"))}
+0.0000350000
+0.0000000000
+2.5366100000

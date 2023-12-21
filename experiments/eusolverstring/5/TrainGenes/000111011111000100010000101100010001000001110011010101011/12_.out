@@ -1,0 +1,4 @@
+5 {f:ite(str.prefixof(func4(Param0,"Inc"),""),ite(str.prefixof(func4(Param0,"Company"),""),ite(str.prefixof(func4(Param0,"Corporation"),""),ite(str.prefixof(func4(Param0,"Enterprises"),""),Param0,func4(Param0," ")),func4(Param0," ")),func4(Param0,func35(""," ","Company"))),func4(Param0,func35(""," ","Inc")))}
+0.0001720000
+0.0000000000
+2.9516590000

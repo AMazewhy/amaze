@@ -1,0 +1,4 @@
+3 {f:ite(=(-1,func40(Param0,"/n")),Param0,ite(str.prefixof(int.to.str(func38(-1)),int.to.str(func53(Param0))),func31(Param0,func38(func54(func40(Param0,"/n")))),func31(Param0,func40(Param0,func0(Param0,func38(-1))))))}
+0.0000490000
+0.0000000000
+145.7203270000

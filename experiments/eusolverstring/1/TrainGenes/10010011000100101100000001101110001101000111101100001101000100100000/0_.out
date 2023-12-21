@@ -1,0 +1,4 @@
+4 {f:ite(str.suffixof("US",Param0),ite(=(str.len("CAN"),func35(Param0," ")),func3(Param0,Param0," ",func46(Param0," ")),func28(Param0,0," ")),ite(str.suffixof("CAN",Param0),func3(Param0,Param0," ",func46(Param0," ")),Param0))}
+0.0000470000
+0.0000000000
+2.8603670000

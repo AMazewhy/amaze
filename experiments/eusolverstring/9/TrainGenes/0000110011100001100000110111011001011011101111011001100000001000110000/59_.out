@@ -1,0 +1,4 @@
+4 {f:ite(str.prefixof("=",str.at(Param0,func38(0))),func10(Param0,func53(Param0)),ite(str.suffixof(int.to.str(1),Param0),func16(Param0,1,func38(1)),func16(Param0,1,func38(0))))}
+0.0000660000
+0.0000000000
+1.4749050000

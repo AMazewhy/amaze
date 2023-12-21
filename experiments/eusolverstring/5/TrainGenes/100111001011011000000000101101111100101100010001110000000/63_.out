@@ -1,0 +1,4 @@
+2 {f:ite(str.suffixof(" ",func27(Param0,2)),func4(str.replace(Param0,func4(Param0,"_"),"")," "),func14(Param0,func39(Param0),func39(" ")))}
+0.0000200000
+0.0000000000
+29.0936190000

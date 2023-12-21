@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(str.replace(Param0," ","")," "),ite(str.suffixof(" ",func19(Param0,1,func48(1,Param0," "))),func48(-1,func31(Param0,1)," "),func36(Param0," ")),func50(-1," "))}
+0.0000420000
+0.0000000000
+20.2977310000

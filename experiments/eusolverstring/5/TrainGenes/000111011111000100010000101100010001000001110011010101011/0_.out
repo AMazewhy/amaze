@@ -1,0 +1,4 @@
+4 {f:ite(str.prefixof(func4(Param0,"US"),""),ite(str.prefixof(func4(Param0,"CAN"),""),Param0,func4(Param0,func35(""," ","CAN"))),func4(Param0,func35(""," ","US")))}
+0.0000440000
+0.0000000000
+0.6654840000

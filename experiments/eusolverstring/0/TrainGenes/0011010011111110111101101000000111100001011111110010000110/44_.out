@@ -1,0 +1,4 @@
+6 {f:ite(str.contains("0",func8(Param0,1,-1)),ite(str.contains("0",func2(Param0,1)),func40(func42(1)," "),ite(str.contains("0",func8(Param0,1,1)),func40(func42(1)," "),func40(-1," "))),ite(str.contains(Param0,"0"),ite(str.contains("0",func2(Param0,1)),func40(-1," "),func40(func42(0)," ")),func40(func42(func42(1))," ")))}
+0.0001560000
+0.0000000000
+1.4575900000

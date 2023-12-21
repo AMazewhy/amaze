@@ -1,0 +1,4 @@
+3 {f:ite(str.prefixof(" ",func12(Param0)),func9(Param0,3,func31(3)),ite(str.suffixof("-",func12(Param0)),func9(Param0,3,func31(1)),func9(Param0,3,func31(2))))}
+0.0005880000
+0.0000000000
+0.8352790000

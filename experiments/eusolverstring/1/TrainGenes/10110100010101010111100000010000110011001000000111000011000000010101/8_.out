@@ -1,0 +1,4 @@
+3 {f:ite(=(0,func48(1,Param0," ")),str.replace(Param0,"DRS","Direct Response"),ite(=(0,func48(1,Param0,"BRD")),str.replace(Param0,"LDS","Leads"),str.replace(Param0,"BRD","Branding")))}
+0.0000350000
+0.0000000000
+1.6229140000

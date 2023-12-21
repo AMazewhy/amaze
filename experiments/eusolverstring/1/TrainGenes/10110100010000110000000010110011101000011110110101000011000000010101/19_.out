@@ -1,0 +1,4 @@
+4 {f:ite(str.suffixof("that",Param0),ite(str.suffixof(Param0,"that"),Param0,func2(Param0,"that",1)),ite(=(0,func36(Param0,"that")),func31(Param0,str.len("that")),Param0))}
+0.0000680000
+0.0000000000
+0.5634960000

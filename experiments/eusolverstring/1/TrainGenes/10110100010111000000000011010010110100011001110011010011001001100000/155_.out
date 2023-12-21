@@ -1,0 +1,4 @@
+3 {f:ite(=(Param1,1),func32(Param0,Param1),ite(=(0,func52(Param1)),func32(Param0,Param1),func9(Param0,func49(Param1),1)))}
+0.0000290000
+0.0000000000
+0.3585340000

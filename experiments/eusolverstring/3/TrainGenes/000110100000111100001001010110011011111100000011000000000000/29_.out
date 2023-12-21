@@ -1,0 +1,4 @@
+3 {f:ite(=(3,-(str.len(Param0),5)),str.substr(Param0,0,5),ite(=(4,-(str.len(Param0),5)),func40(str.substr(Param0,1,5),Param0),str.substr(Param0,0,+(2,5))))}
+0.0000740000
+0.0000000000
+1.1959090000

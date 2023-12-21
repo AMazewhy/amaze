@@ -1,0 +1,4 @@
+3 {f:ite(str.contains(Param0,"%"),ite(str.suffixof(" ",func12(Param0)),func7(func27(Param0,7),6),func9(Param0,3,9)),func0(Param0,3))}
+0.0000270000
+0.0000000000
+0.6660810000

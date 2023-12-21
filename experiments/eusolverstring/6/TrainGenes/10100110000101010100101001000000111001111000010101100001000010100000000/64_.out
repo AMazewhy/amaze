@@ -1,0 +1,4 @@
+3 {f:ite(=(Param1,1),func39(Param0,"_",Param1),ite(=(Param1,+(1,1)),func37(str.replace(Param0," ",Param0),"_"),str.len(func17(Param0,Param1,1))))}
+0.0000340000
+0.0000000000
+0.7425030000

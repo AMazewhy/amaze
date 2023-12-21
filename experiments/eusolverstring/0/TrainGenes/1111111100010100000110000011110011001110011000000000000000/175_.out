@@ -1,0 +1,4 @@
+2 {f:ite(str.suffixof(" ",Param0),"",func13(Param0,str.len(Param0),func39(str.to.int("9"))))}
+0.0000220000
+0.0000000000
+34.3046370000

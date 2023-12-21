@@ -1,0 +1,4 @@
+9 {f:ite(str.contains(func19(Param0)," "),func3(func23(Param0,5)),ite(str.suffixof(" ",func3(Param0)),func3(func23(Param0,3)),func19(Param0)))}
+0.0006200000
+0.0000000000
+1.7859600000

@@ -1,0 +1,4 @@
+4 {f:ite(str.suffixof("1",Param0),func37(func32(Param0,0)," ","apple"),ite(str.suffixof("2",Param0),func37(func32(Param0,0)," ","bananas"),ite(str.suffixof("3",Param0),func37(func2(Param0,",",1)," ","strawberries"),func37(func2(Param0,",",1)," ","oranges"))))}
+0.0000460000
+0.0000000000
+156.6506600000

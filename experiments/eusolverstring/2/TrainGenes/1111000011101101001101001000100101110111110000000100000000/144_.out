@@ -1,0 +1,4 @@
+7 {f:ite(str.contains(Param0,int.to.str(0)),ite(str.suffixof(int.to.str(1),Param0),func9(Param0,3,func41(func41(1))),ite(str.contains(Param0,int.to.str(3)),func9(Param0,3,func41(func41(2))),func9(Param0,3,func41(func41(1))))),ite(str.suffixof(int.to.str(1),Param0),func9(Param0,3,func41(func41(1))),ite(str.contains(Param0,int.to.str(3)),func18(Param0,3,func41(3)),func9(Param0,3,func41(func41(1))))))}
+0.0001700000
+0.0000000000
+6.0176140000

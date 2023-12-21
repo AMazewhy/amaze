@@ -1,0 +1,4 @@
+5 {f:str.substr(Param0,+(2,str.indexof(str.replace(Param0," ","")," ",1)),4)}
+0.0000610000
+0.0000000000
+169.7893310000

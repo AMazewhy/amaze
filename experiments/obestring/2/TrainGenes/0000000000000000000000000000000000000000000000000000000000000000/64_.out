@@ -1,0 +1,4 @@
+3 {f:+(1,str.indexof(Param0,"_",str.to.int(str.++(int.to.str(+(Param1,-1)),int.to.str(Param1)))))}
+0.0000280000
+0.0000000000
+115.9693690000

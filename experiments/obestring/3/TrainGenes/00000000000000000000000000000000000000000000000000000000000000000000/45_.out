@@ -1,0 +1,4 @@
+3 {f:str.len(str.++(int.to.str(str.len(Param0)),int.to.str(str.indexof(Param0,"/n",1))))}
+0.0000160000
+0.0000000000
+1.9210160000

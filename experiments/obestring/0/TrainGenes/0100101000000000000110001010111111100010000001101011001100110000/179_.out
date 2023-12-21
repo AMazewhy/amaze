@@ -1,0 +1,4 @@
+2 {f:str.replace(Param0,func42(Param1," "),ite(str.suffixof(Param1,Param0),""," "))}
+0.0000190000
+0.0000000000
+224.5897060000

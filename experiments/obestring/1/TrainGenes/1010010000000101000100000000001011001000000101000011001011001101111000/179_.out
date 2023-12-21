@@ -1,0 +1,4 @@
+2 {f:str.replace(Param0,func49(Param1," "),func15(" ",Param0,Param1,str.len(Param1)))}
+0.0000190000
+0.0000000000
+103.4503290000

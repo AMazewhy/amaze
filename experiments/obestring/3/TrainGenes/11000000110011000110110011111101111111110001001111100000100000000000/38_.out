@@ -1,0 +1,4 @@
+6 {f:str.contains(str.++("yellow","pink"),func9(Param0,1,"blue"))}
+0.0000440000
+0.0000000000
+221.2999790000

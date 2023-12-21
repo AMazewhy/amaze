@@ -1,0 +1,4 @@
+3 {f:str.replace(str.replace(Param0,"US","CAN"),func5("CAN"," "),"")}
+0.0000260000
+0.0000000000
+52.7954240000

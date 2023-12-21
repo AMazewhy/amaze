@@ -1,0 +1,3 @@
+(define-fun f ((x (BitVec 64))) (BitVec 64)
+     (if0 (func32 (shr4 x)) (if0 (shr4 (shr16 x)) (bvnot #x0000000000000000) (if0 (func28 #x0000000000000001 (shl1 x)) (bvnot (shr1 (shr4 x))) (if0 (func32 x) (if0 (func28 #x0000000000000001 x) (bvnot (shr1 (shr4 x))) (bvnot (shr1 (func58 (shr4 x) #x0000000000000001)))) (bvnot (shr1 (shr4 x)))))) (if0 x (bvnot (shr1 (shr4 x))) (if0 (func28 x x) x (if0 (func28 (shr1 x) x) x (if0 (func28 #x0000000000000001 x) (bvor (func26 (shr1 x) x #x0000000000000001) x) (if0 (func32 x) x (if0 (func26 #x0000000000000001 x #x0000000000000001) (bvor (func26 (shr1 x) x #x0000000000000001) x) (if0 (func28 #x0000000000000001 (shr4 x)) x (bvor (func26 (shr1 x) x #x0000000000000001) x))))))))))
+141.3064711075276

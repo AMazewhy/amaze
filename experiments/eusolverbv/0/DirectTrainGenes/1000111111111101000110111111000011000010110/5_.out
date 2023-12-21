@@ -1,0 +1,3 @@
+(define-fun f ((x (BitVec 64))) (BitVec 64)
+     (if0 (func29 x) (func43 #x0000000000000000 (func36 #x0000000000000001 x) x) (bvor (func27 #x0000000000000001 x) x)))
+25.573500717058778

@@ -16,3 +16,5 @@ xxx.py files in 0/DSL shows the core code.
 
 'python3 report2.py' will show the results of Table 2 and Figure 3
 
+The whole experiment data is too large and it is not recommended to download it all.
+

@@ -1,0 +1,1 @@
+str.substr(str.++(Param0,str.++(",",Param0)),+(1,str.indexof(Param0,",",1)),str.len(Param0))

@@ -1,0 +1,1 @@
+(bvnot (bvshl (bvnot x) #x0000000000000001))

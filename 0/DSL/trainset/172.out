@@ -1,0 +1,1 @@
+str.substr(Param0,+(2,str.indexof(str.replace(Param0," ","")," ",1)),4)

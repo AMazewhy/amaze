@@ -1,0 +1,1 @@
+source /home/citceae/anaconda3/etc/profile.d/conda.sh && conda activate py368 && /home/ztye/experiments/obestring/0/DSL/eusolver-main/eusolver $@

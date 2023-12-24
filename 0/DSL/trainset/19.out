@@ -1,0 +1,1 @@
+str.replace(Param0,str.replace("that",Param0,""),"")
